@@ -13,3 +13,4 @@
 # 目次 
 
   *  [Copilot 環境設定](./1_Copilot%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A/README.md)
+  *  [Power Apps Copilot で日報アプリ](./2_Power%20Apps%20Copilot%20%E6%97%A5%E5%A0%B1%E3%82%A2%E3%83%97%E3%83%AA/README.md)
